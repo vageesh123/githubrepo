@@ -1,4 +1,0 @@
-hello Git
-devops class
-
-AWS done. Devops tools to be learned
